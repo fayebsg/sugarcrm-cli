@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/console": "v2.4.4"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Fbsg\\": "src"
+        }
+    }
+}
